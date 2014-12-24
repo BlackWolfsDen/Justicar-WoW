@@ -1,0 +1,4 @@
+/home/core/build/funserver/bin/authserver
+/home/core/build/funserver/etc/authserver.conf.dist
+/home/core/build/funserver/bin/worldserver
+/home/core/build/funserver/etc/worldserver.conf.dist
